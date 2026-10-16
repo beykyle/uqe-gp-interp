@@ -6,7 +6,7 @@ scikit-learn and Matplotlib.
 Requires Python 3.10 or newer (tested with 3.13). Pick one of the setups below, then
 open `gp_E_interp.ipynb` in Jupyter and run all cells. A full run takes under a minute.
 
-## uv (recommended)
+## uv
 
 [uv](https://docs.astral.sh/uv/) installs the exact versions pinned in `uv.lock`:
 
